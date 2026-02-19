@@ -2,7 +2,7 @@
 # 👩‍💻 Iara Pinheiro
 
 🎓 Estudante de Ciência da Computação — 1º semestre  
-📍 Brasília, DF — Brasil  
+📍 Brasília-DF 
 📅 Idade: 21 anos  
 
 ---
